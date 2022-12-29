@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Prateek-Mohanty/tesla-clone/static/css/main.dadba839.css",
+    "main.js": "/Prateek-Mohanty/tesla-clone/static/js/main.dd6d2bb6.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Prateek-Mohanty/tesla-clone/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Prateek-Mohanty/tesla-clone/index.html",
+    "main.dadba839.css.map": "/Prateek-Mohanty/tesla-clone/static/css/main.dadba839.css.map",
+    "main.dd6d2bb6.js.map": "/Prateek-Mohanty/tesla-clone/static/js/main.dd6d2bb6.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Prateek-Mohanty/tesla-clone/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dadba839.css",
+    "static/js/main.dd6d2bb6.js"
+  ]
+}
