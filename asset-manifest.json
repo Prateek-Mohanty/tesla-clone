@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Prateek-Mohanty/tesla-clone/static/css/main.dadba839.css",
-    "main.js": "/Prateek-Mohanty/tesla-clone/static/js/main.dd6d2bb6.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Prateek-Mohanty/tesla-clone/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/Prateek-Mohanty/tesla-clone/index.html",
-    "main.dadba839.css.map": "/Prateek-Mohanty/tesla-clone/static/css/main.dadba839.css.map",
-    "main.dd6d2bb6.js.map": "/Prateek-Mohanty/tesla-clone/static/js/main.dd6d2bb6.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Prateek-Mohanty/tesla-clone/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/tesla-clone/static/css/main.dadba839.css",
+    "main.js": "/tesla-clone/static/js/main.b24560e1.js",
+    "static/js/787.28cb0dcd.chunk.js": "/tesla-clone/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/tesla-clone/index.html",
+    "main.dadba839.css.map": "/tesla-clone/static/css/main.dadba839.css.map",
+    "main.b24560e1.js.map": "/tesla-clone/static/js/main.b24560e1.js.map",
+    "787.28cb0dcd.chunk.js.map": "/tesla-clone/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dadba839.css",
-    "static/js/main.dd6d2bb6.js"
+    "static/js/main.b24560e1.js"
   ]
 }
