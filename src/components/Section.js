@@ -79,5 +79,4 @@ const DownArrow = styled.img`
     animation: animateDown infinite 1.5s;
 `
 const Buttons = styled.div`
-    border:2px solid black;
 `
