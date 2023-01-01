@@ -6,7 +6,7 @@ function Header() {
   return (
     <Container>
         <a>
-          <img src ="/images/logo.svg"/>
+          <img src ="tesla-clone/images/logo.svg"/>
         </a>
         <Menu>
           <a href="#">Model S</a>
@@ -17,10 +17,10 @@ function Header() {
         <RightMenu>
           <a href="#">Shop</a>
           <a href="#">Tesla Account</a>
-          <CustomMenu onClick={()=>setBurgerStatus(true)}><a><img src="/images/hamburger.png"/></a></CustomMenu>
+          <CustomMenu onClick={()=>setBurgerStatus(true)}><a><img src="tesla-clone/images/hamburger.png"/></a></CustomMenu>
         </RightMenu>
         <BurgerNav show = {burgerStatus} >
-              <img src="/images/close.png" onClick={()=>setBurgerStatus(false)}></img>
+              <img src="tesla-clone/images/close.png" onClick={()=>setBurgerStatus(false)}></img>
               <li><a href="#">Model X</a></li>
               <li><a href="#">Model Y</a></li>
               <li><a href="#">Model 3</a></li>
